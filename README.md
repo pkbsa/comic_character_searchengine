@@ -1,4 +1,4 @@
-# comic_character_searchengine
+# Comic Character Searchengine
 A superhero search engine that uses data from dataset.io and utilizes Elasticsearch and Kibana for indexing and querying the data, along with Flask for displaying the information on the website. The website allows users to search for and view detailed information about their favorite superheroes, highlighting my ability to work with Elasticsearch
 
 to run the service you will need to install kibana and elastic first
